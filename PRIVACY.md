@@ -18,11 +18,15 @@ El propietario de un viaje con servidor puede publicar un título para que otras
 
 En viajes con servidor, al activar avisos compatibles la app puede registrar un identificador de instalación y un token de Firebase Cloud Messaging para entregar notificaciones. Nearby Connections y el lector de códigos de Google pueden tratar información del dispositivo, rendimiento y diagnóstico para prestar su servicio. Puedes gestionar los permisos de OurTrip y las opciones de uso y diagnóstico de Google en los ajustes de Android.
 
+Si usas «Buscar en YouTube» dentro de un viaje con servidor, el servidor envía el texto de la búsqueda al proveedor de música para mostrar resultados. El lector QR procesa la imagen del código en el dispositivo.
+
 ## Conservación y control
 
 Los recuerdos y originales permanecen en el dispositivo mientras conserves el viaje y sus datos de app. Puedes eliminar recuerdos desde OurTrip y borrar los datos locales de la app desde Android. Desactivar permisos impide usos futuros; no borra los recuerdos ya guardados. Una eliminación sincronizada puede conservar una marca técnica para que otros dispositivos no restauren el elemento. Los originales y copias retenidos en un servidor dependen de su administrador; los archivos ya exportados o copiados por otros no se borran desde tu móvil.
 
-Para consultas de privacidad o para solicitar ayuda con la eliminación de datos de OurTrip, contacta con el soporte de GuruLoko: casaguru@gmail.com. No incluyas códigos de invitación, contraseñas, ubicaciones ni fotos en el primer mensaje.
+## Solicitar la eliminación de datos
+
+Puedes escribir a casaguru@gmail.com con el asunto «OurTrip: eliminación de datos», incluso si ya has desinstalado la app. Indica qué tipo de datos quieres eliminar y si usabas un servidor propio. GuruLoko puede ayudarte a identificar dónde están guardados y cómo solicitar su eliminación; si el servidor es de otro administrador, éste gestiona sus copias. No incluyas códigos de invitación, contraseñas, ubicaciones ni fotos en el primer mensaje.
 
 ---
 
@@ -46,8 +50,12 @@ The owner of a server trip may publish a title so other people can find it and r
 
 For server trips, enabling compatible notifications may register an installation identifier and a Firebase Cloud Messaging token to deliver them. Nearby Connections and the Google code scanner may process device, performance and diagnostic information to provide their services. You can manage OurTrip permissions and Google usage and diagnostics in Android settings.
 
+If you use “Search YouTube” in a server trip, the server sends your search text to the music provider to return results. The QR code scanner processes the code image on the device.
+
 ## Retention and controls
 
 Memories and originals remain on the device while you retain the trip and its app data. You can delete memories in OurTrip and clear local app data in Android settings. Turning off a permission prevents future use; it does not delete existing memories. A synced deletion may retain a technical record so another device does not restore the item. Originals and backups retained by a server depend on its administrator. Your phone cannot delete files already exported or copied by other people.
 
-For privacy questions or help deleting OurTrip data, contact GuruLoko support: casaguru@gmail.com. Please do not include invitation codes, passwords, locations or photos in your first message.
+## Request data deletion
+
+Email casaguru@gmail.com with the subject “OurTrip: data deletion” even if you have already uninstalled the app. Say what type of data you want to delete and whether you used your own server. GuruLoko can help identify where it is stored and how to request deletion; other server operators manage their own copies. Please do not include invitation codes, passwords, locations or photos in your first message.
